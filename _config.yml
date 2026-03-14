@@ -1,4 +1,5 @@
-baseurl: '/'
+baseurl: ''
+url: 'dapostol.github.io'
 permalink: pretty
 title: 'Jekyll Serif'
 
