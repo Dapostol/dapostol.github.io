@@ -1,14 +1,14 @@
 ---
-title: "Sage Kirk"
+title: "Meti Cheilari"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/sage-kirk-485982-unsplash.jpg"
-jobtitle: "Accounting Partner"
-linkedinurl: "https://www.linkedin.com/example2"
+jobtitle: "Partner"
+linkedinurl: "https://www.linkedin.com/"
 promoted: true
 weight: 2
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+Meti is a chemist with more than 15 years of experience in pharmacheutical industry.
 <!--more-->
 
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
