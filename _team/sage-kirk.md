@@ -10,5 +10,3 @@ weight: 2
 
 Meti is a chemist with more than 15 years of experience in pharmacheutical industry.
 <!--more-->
-
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
