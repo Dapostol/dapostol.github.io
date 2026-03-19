@@ -10,4 +10,4 @@ show_call_box: true
 
 # Afetis: Your Financial Starting Line.
 
- Your Financial Starting Line.
+Your Financial Starting Line.
